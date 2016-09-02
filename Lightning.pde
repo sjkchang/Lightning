@@ -19,13 +19,6 @@ void draw()
     line(startX, startY, endX, endY);
     startX = endX;
     startY = endY;
-
-
-    
-   System.out.println(startX);
-   System.out.println(startY);
-   System.out.println(endX);
-   System.out.prinln(endY);
    
   }
 }
